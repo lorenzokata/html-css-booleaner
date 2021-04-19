@@ -1,4 +1,13 @@
-.container{
-    margin: auto;
-    width: 80%;
+header{
+    background-image: url(img/pattern.png)
+    ;
+    background-color: cornflowerblue;
+    background-size: 20%;
+    background-repeat: repeat;
+    height: 100px;
+}
+
+
+.logo{
+    width: 20%;
 }
