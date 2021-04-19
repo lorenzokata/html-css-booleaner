@@ -2,12 +2,20 @@ header{
     background-image: url(img/pattern.png)
     ;
     background-color: cornflowerblue;
-    background-size: 20%;
+    background-size: 30%;
     background-repeat: repeat;
-    height: 100px;
+    height: 80px;
 }
 
 
 .logo{
     width: 20%;
+}
+
+.info{
+    color: grey;
+}
+
+.text-blue{
+    color: skyblue;
 }
