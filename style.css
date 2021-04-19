@@ -12,7 +12,7 @@ header{
     width: 20%;
 }
 
-.info{
+.text-grey{
     color: grey;
 }
 
@@ -26,4 +26,26 @@ header{
 
 .highlighted{
     background-color: yellow;
+}
+
+thead{
+    background-color: rgb(37, 132, 214);
+    color: white;
+    text-align: left;
+}
+
+.blue-row{
+    background-color: skyblue;
+}
+
+.body{
+    height: 80px;
+}
+
+td{
+    width: 25%;
+}
+
+.terza-colonna{
+    width: 50%;
 }
